@@ -1,0 +1,1 @@
+Git does not track Empty Folders, I you create at least one file within this Folder then it will track it.
