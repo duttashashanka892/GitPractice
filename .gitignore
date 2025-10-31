@@ -1,0 +1,4 @@
+.env
+api_secrets.txt
+
+# This files are contained Sensitive API Keys, Please don't Shared it Public
