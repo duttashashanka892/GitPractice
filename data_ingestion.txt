@@ -1,6 +1,0 @@
-Hi, I am ingesting data in this file.
-New Data is ingested.
-New feature branch is being created.
-Now added more data.
-
-I am ingested batch data.
